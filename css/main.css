@@ -1,0 +1,34 @@
+
+.container {
+  padding: 10px;
+}
+
+.imag1 {
+  width: 100%;
+  padding: 10px;
+  padding-bottom: 0;
+}
+
+.imag2 {
+  width: 100%;
+  padding: 0;
+}
+.cont-img2 {
+  padding: 0;
+}
+
+.imag3 {
+  width: 100%;
+  margin: 0 auto;
+  padding-top: 10px;
+  padding-bottom: 0;
+  background-color: white;
+}
+
+.content-3 {
+  margin-right: 50px;
+}
+
+.images-block {
+  padding-left: 8.6%;
+}
